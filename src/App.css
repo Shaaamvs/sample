@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* body{
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.982);
+} */
+.profile{
+  border-radius: 50%;
+  width: 50%;
+  margin: 20px;
+  text-align: center;
+
+}
